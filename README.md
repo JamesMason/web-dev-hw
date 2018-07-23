@@ -1,4 +1,4 @@
-# web-dev-hw# My Intro-Web-Dev Homework Repo.
+# My Intro-Web-Dev Homework Repo.
 ## James Mason
 I decided to take this class because it is a prerequisite in the Media Arts BFA and I thought it would be easier to get it out of the way in the summer, and because I have no experience with code at all and want to create my own pages on the internet.
 
@@ -14,4 +14,5 @@ Our Textbook is *HTML and CSS* by **John Ducket**
 *HTML and CSS* by **John Ducket**
 ```
 [Course website](https://media-ed-online.github.io/intro-web-dev/)
+
 (![logo]http://bit.ly/2DIVG46)
