@@ -1,0 +1,14 @@
+Data can travel on the internet by being broken up into pieces of one size
+(“packets”) and traveling that way, then being put back together at their
+destination by instructions in the “wrapper” the “packets” came in.
+
+The DNS is the service that changes web addresses from their human-friendly
+versions (like google.com) into IP addresses (which are just numbers and dots)
+for computers to use.
+
+Cookies (on the internet) are pieces of information that get stored on your
+browser keeping track of your activity on different websites. They can keep you
+logged in or remembering where you left off or they can keep track of what you
+look at to advertise to you. Cookies are delicious.
+
+The three basic parts of a URL are the protocol, the domain name and the path.

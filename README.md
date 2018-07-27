@@ -8,7 +8,7 @@ But what really is the internet?
 - I did not know that the internet was invented in the 1970's as part of national defense research.
 
 ***
-### My Resouces
+### My Resources
 Our Textbook is *HTML and CSS* by **John Ducket**
 ```
 *HTML and CSS* by **John Ducket**
