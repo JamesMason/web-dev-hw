@@ -6,13 +6,13 @@ using GIT in this class is so that we can fix our mistakes more easily, share ou
 work and see what it would look like on an actual website, and get used to using
 it because it is the industry standard.
 
-(./responses.txt)
+[Responses](./responses.txt)
 
 Work cycle: the first time I tried to do this assignment, I actually missed a
 whole chunk of it because I didn't get how the class website was supposed to
 work yet.  
 
-(../a2-screenshot.png)
+![Screenshot](../a2-screenshot.png)
 
 Also Github seemed kind of confusing at first so I'm pushing a bunch of these at
 once now but now that I know for sure I'm not doing it wrong it seems easy.
