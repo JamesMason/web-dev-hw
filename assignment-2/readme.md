@@ -12,7 +12,7 @@ Work cycle: the first time I tried to do this assignment, I actually missed a
 whole chunk of it because I didn't get how the class website was supposed to
 work yet.  
 
-![Screenshot](../a2-screenshot.png)
+![Screenshot](./a2-screenshot.png)
 
 Also Github seemed kind of confusing at first so I'm pushing a bunch of these at
 once now but now that I know for sure I'm not doing it wrong it seems easy.
