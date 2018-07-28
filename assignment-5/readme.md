@@ -15,4 +15,4 @@ and had to go back and erase it, which I guess is a good reminder about looking 
 I discovered by accident thagt when I moused over it in Atom, it showed a link from Mozilla I could click to double-check how it worked 
 and it was really useful and I'm glad I know now.
 
-![](../images/a5-screenshot.PNG)
+![x](../images/a5-screenshot.PNG)
