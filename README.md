@@ -15,4 +15,4 @@ Our Textbook is *HTML and CSS* by **John Ducket**
 ```
 [Course website](https://media-ed-online.github.io/intro-web-dev/)
 
-(![logo]http://bit.ly/2DIVG46)
+![logo](http://bit.ly/2DIVG46)
