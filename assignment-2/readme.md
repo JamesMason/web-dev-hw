@@ -15,4 +15,6 @@ work yet.
 ![Screenshot](../a2-screenshot.PNG)
 
 Also Github seemed kind of confusing at first so I'm pushing a bunch of these at
-once now but now that I know for sure I'm not doing it wrong it seems easy.
+once now but now that I know for sure I'm not doing it wrong (anymore) it seems
+easy. I had to make changes to this readme because I didn't realize you had to 
+capitalize the .PNG part for it to show up correctly.
