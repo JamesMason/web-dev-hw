@@ -14,7 +14,7 @@ some examples on paper. Now that I'm going back and typing in my readmes, though
 
 This screenshot of my work also has the solution:
 
-![Solution](./images/Capture.png)
+![Solution](./images/Capture.PNG)
 
 
 
