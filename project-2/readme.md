@@ -15,6 +15,6 @@ was to make the menu look (at least, structure-wise) like the ones that are actu
 are links. I'm sure there's an easier way to do it out there but since it was only three pages, it was satisfying.
 
 I thought I could just do the minimum of styling because I'm running out of time, but when I saw this I couldn't just leave it:
-![Ugh](./p2-screenshot.PNG)
+![Ugh](../p2-screenshot.PNG)
 
 I'm still not happy with how it looks but I have kids and a life, so, that's it for now.
