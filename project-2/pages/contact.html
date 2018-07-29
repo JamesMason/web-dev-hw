@@ -1,20 +1,36 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title></title>
+    <title>Contact me</title>
     <meta charset=UTF-8 />
-    <meta name="description" content="" />
+    <meta name="description" content="A contact form for James Mason" />
     <meta name="author" content="James Mason" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
       body {
         background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5yA5lCfP2aYy-vCmUKpbM42aq9wxsJrTqdir9wukeKX6pKStq);
       }
-      div {
+      div, nav {
         background-color: white;
+        padding: 20px;
+        border: 1px solid white;
       }
     </style>
   </head>
   <body>
+    <nav>
+      <a href="../index.html">Instructable</a> &middot; <a href="./about.html">About</a> &middot; <b>Contact</b>
+    </nav>
+    <div>
+      <form action="#" method="get" id="contact">
+        <h1>Contact me</h1>
+        <input type="email" name="email" placeholder="Your email address" />
+        <br />
+        <input type="textarea" name="comments" />
+        <br />
+        <input type="checkbox" name="troll" /> I solemly swear I am not a troll.
+        <input type="submit" name="submit" value="Send" />
+      </form>
+    </div>
   </body>
 </html>
