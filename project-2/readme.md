@@ -18,3 +18,5 @@ I thought I could just do the minimum of styling because I'm running out of time
 ![Ugh](../p2-screenshot.PNG)
 
 I'm still not happy with how it looks but I have kids and a life, so, that's it for now.
+
+Epilogue: I came back in a panic because I realized I hadn't optimized the images for the web-- and then made all kinds of mistakes fixing them because it wasn't in Atom and I was rushing. It was a good illustration of how helpful the right work environment is.
